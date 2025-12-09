@@ -1,5 +1,4 @@
 
-```markdown
 # ✅ Knowledge Nexus - Multimodal RAG AI Assistant
 
 A fully functional **Retrieval-Augmented Generation (RAG) AI Assistant** built on **Base44**, featuring a **glassmorphic design**, multi-agent AI orchestration, document ingestion, semantic search, and live AI-powered chat. This project is fully **production-ready**, optimized for Base44's infrastructure, and uses only **free & open-source AI tools**.
